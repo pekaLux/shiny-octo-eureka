@@ -30,4 +30,3 @@ override_utf8_locale no
 TEXT
 $alignr${font :size=20}${time %n}${time %A}, ${time %e} ${time %B} ${time %Y}
 $alignr${font :size=48}${time %H}:${time %M}#:${time %S}
-#${time %n}
