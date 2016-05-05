@@ -11,7 +11,7 @@ own_window_transparent yes
 own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
 double_buffer yes
 minimum_size 100 5
-maximum_width 300
+maximum_width 350
 maximum_height 30
 draw_shades no
 draw_outline no
